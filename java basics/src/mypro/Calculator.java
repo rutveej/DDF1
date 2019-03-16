@@ -5,7 +5,7 @@ public class Calculator {
 	System.out.println(a+b);
 	
 	}
-	
+	//this is demo
 	public static void main(String[] args) {
 		Calculator basicCal = new Calculator ();
 		
